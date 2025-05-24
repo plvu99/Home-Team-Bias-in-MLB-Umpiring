@@ -1,6 +1,6 @@
 # ️⚾ Home-Team Bias in MLB Umpiring
 
-## Background and Context of the project
+## Background and Context
 
 Baseball is a sport where the umpire’s role is pivotal, and their calls directly influence the fairness and outcome of each game. An article by the Society for American Baseball Research (SABR) reports that even top-performing umpires miss 12–13 calls per game, though accuracy has improved since Major League Baseball (MLB) introduced performance evaluation systems in 2009. A Boston University study analyzed over 4 million pitches across 11 MLB seasons and found that certain incorrect calls occurred more than 20% of the time, particularly in high-pressure situations.
 
@@ -10,7 +10,7 @@ It is not uncommon that fans blame the loss of the game to home advantages and u
 
 Is there significant home-team bias among MLB umpiring? (favor_home and total_run_impact)
 
-## Objectives and Scope of the project
+## Objectives and Scope
 
 Our project seeks to examine the existence of home-team bias in MLB umpiring decisions and to quantify how such bias may affect the game outcome through measures like favor_home and total_run_impact. Understanding umpire bias is critical for maintaining the integrity of the sport, shaping fan perception, and potentially informing team strategies for home and away games.
 
