@@ -131,13 +131,13 @@ Three clusters of umpire behavior emerged:
 - Favorability scores close to zero
 - Minimal bias toward either team
 
-**Away-Team Bias (20%)**
-- Negative favor_home values
-- Calls tend to benefit the visiting team
-
 **Home-Team Bias (22%)**
 - Positive favor_home values
 - Calls more frequently benefit the home team
+
+**Away-Team Bias (20%)**
+- Negative favor_home values
+- Calls tend to benefit the visiting team
 
 Most umpires appear neutral, but a meaningful minority show systematic bias.
 
