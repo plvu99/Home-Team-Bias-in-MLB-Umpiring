@@ -4,7 +4,7 @@
 
 This project investigates **whether Major League Baseball (MLB) umpires exhibit systematic home-team bias and how such bias may influence game outcomes.** Using umpire scorecard data from the 2015–2022 MLB seasons, the analysis combines statistical modeling and clustering techniques to examine patterns in missed calls and their impact on run expectancy.
 
-The study applies both **supervised learning** (regression and classification) and **unsupervised learning **(clustering) to understand whether umpire behavior consistently favors home teams and to identify groups of umpires with similar decision-making patterns.
+The study applies both **supervised learning** (regression and classification) and **unsupervised learning**(clustering) to understand whether umpire behavior consistently favors home teams and to identify groups of umpires with similar decision-making patterns.
 
 ## 🔐 Business Problem
 
