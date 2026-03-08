@@ -149,8 +149,6 @@ Three clusters of umpire behavior emerged:
 
 Most umpires appear neutral, but a meaningful minority show systematic bias.
 
-<img width="833" height="547" alt="image" src="https://github.com/user-attachments/assets/8e80405e-3bd1-4bcc-9a9b-fdf1301401fb" />
-
 <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/a5c2ba77-ff1d-44f6-9479-14c4033c660e" />
 
 ### Hierarchical Clustering
