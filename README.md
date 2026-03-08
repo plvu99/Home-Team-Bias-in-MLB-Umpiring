@@ -54,52 +54,42 @@ The analysis applied both supervised and unsupervised learning methods.
 Two regression models examined whether incorrect calls systematically favor the home team.
 
 **Simple Linear Regression**
-
-Modeled relationship between `incorrect_calls` and:
-- `favor_home`
-- `total_run_impact`
+- Modeled relationship between `incorrect_calls` and:
+  - `favor_home`
+  - `total_run_impact`
 
 **Multiple Linear Regression**
-
-Added additional predictors: accuracy, interaction terms, performance indicators
-
-Evaluation metrics: R² (goodness of fit), RMSE, train/test validation, 5-fold cross-validation
+- Added additional predictors: accuracy, interaction terms, performance indicators
+- Evaluation metrics: R² (goodness of fit), RMSE, train/test validation, 5-fold cross-validation
 
 ### 3. Classification Models
 
 Two classification models were used to predict whether an umpire's calls favor the home team.
 
 **Logistic Regression**
-
-Classifies games based on whether run impact exceeds the median.
+- Classifies games based on whether run impact exceeds the median
 
 **Decision Tree**
-
-Captures nonlinear relationships using features such as umpire ID, home team, away team, incorrect calls
-
-Model performance evaluated using accuracy, confusion matrix, cross-validation scores
+- Captures nonlinear relationships using features such as umpire ID, home team, away team, incorrect calls
+- Model performance evaluated using accuracy, confusion matrix, cross-validation scores
 
 ### 4. Clustering Analysis
 
 Two clustering techniques were applied to identify groups of umpires based on bias patterns.
 
 **K-Means Clustering**
-
-Grouped umpires based on:
-- `favor_home`
-- `total_run_impact`
-
-Cluster selection used:
-- Elbow method
-- Silhouette score
+- Grouped umpires based on:
+  - `favor_home`
+  - `total_run_impact`
+- Cluster selection used:
+  - Elbow method
+  - Silhouette score
 
 **Hierarchical Clustering**
-
-Included additional variables: accuracy, consistency, run impact
-
-Cluster structures were analyzed using:
-- Dendrograms
-- Merge height analysis
+- Included additional variables: accuracy, consistency, run impact
+- Cluster structures were analyzed using:
+  - Dendrograms
+  - Merge height analysis
 
 <img width="853" height="556" alt="image" src="https://github.com/user-attachments/assets/a8ff98c4-e388-47b6-b214-671d47927a87" />
 
