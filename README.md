@@ -155,7 +155,7 @@ Most umpires appear neutral, but a meaningful minority show systematic bias.
 
 Three performance-based clusters were identified:
 
-<img width="519" height="171" alt="Screenshot 2026-03-08 at 4 38 53 AM" src="https://github.com/user-attachments/assets/7cab377d-5680-4e34-a88e-55d555e337ed" />
+<img width="533" height="171" alt="Screenshot 2026-03-08 at 4 45 41 AM" src="https://github.com/user-attachments/assets/f817aabe-2e8d-4dcf-8a0a-d23a6c190ac8" />
 
 **Cluster 1 – High Accuracy Neutral Umpires**
 - Highest accuracy and consistency
