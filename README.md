@@ -43,13 +43,13 @@ Dataset size: 18,000+ MLB games, 18 features
 
 The analysis applied both supervised and unsupervised learning methods.
 
-### Data Preprocessing
+### 1. Data Preprocessing
 - Removed rows with missing values
 - Converted key variables to numeric format
 - Selected relevant features for modeling
 - Standardized variables used in clustering
 
-### Regression Analysis
+### 2. Regression Analysis
 
 Two regression models examined whether incorrect calls systematically favor the home team.
 
@@ -65,7 +65,7 @@ Added additional predictors: accuracy, interaction terms, performance indicators
 
 Evaluation metrics: R² (goodness of fit), RMSE, train/test validation, 5-fold cross-validation
 
-### Classification Models
+### 3. Classification Models
 
 Two classification models were used to predict whether an umpire's calls favor the home team.
 
@@ -79,7 +79,7 @@ Captures nonlinear relationships using features such as umpire ID, home team, aw
 
 Model performance evaluated using accuracy, confusion matrix, cross-validation scores
 
-### Clustering Analysis
+### 4. Clustering Analysis
 
 Two clustering techniques were applied to identify groups of umpires based on bias patterns.
 
@@ -107,7 +107,7 @@ Cluster structures were analyzed using:
 
 ## 🔑 Key Insights
 
-### Regression Results
+### 1. Regression Results
 
 The regression models showed almost no relationship between incorrect calls and home-team favorability.
 
@@ -121,7 +121,7 @@ However, umpire accuracy was significantly associated with run impact. When high
 
 <img width="833" height="547" alt="image" src="https://github.com/user-attachments/assets/a0691407-43d8-49a7-a6d6-60bb990e727a" />
 
-### Classification Results
+### 2. Classification Results
 
 Classification models performed poorly, with prediction accuracy around 51%, which is roughly equivalent to random guessing.
 
@@ -131,7 +131,7 @@ One reason is that most combinations of umpire, home team, and away team occur o
 
 <img width="1570" height="790" alt="image" src="https://github.com/user-attachments/assets/dff3fb3d-07ef-4f56-84b6-e3f654bc5dd0" />
 
-### K-Means Clustering
+### 3. K-Means Clustering
 
 Three clusters of umpire behavior emerged:
 
@@ -151,7 +151,7 @@ Most umpires appear neutral, but a meaningful minority show systematic bias.
 
 <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/a5c2ba77-ff1d-44f6-9479-14c4033c660e" />
 
-### Hierarchical Clustering
+### 4. Hierarchical Clustering
 
 Three performance-based clusters were identified:
 
