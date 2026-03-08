@@ -165,23 +165,23 @@ These clusters reveal measurable differences in umpire performance and bias patt
 
 ## ✍️ Business Recommendations
 
-### 1. Improve Umpire Performance Monitoring
+### 1. Improve umpire performance monitoring
 
 Leagues could monitor umpires based on bias and performance metrics to detect potential patterns that affect fairness.
 
-### 2. Assign High-Accuracy Umpires to High-Stake Games
+### 2. Assign high-accuracy umpires to high-stake games
 
 Umpires with strong accuracy and neutrality metrics may be better suited for playoff games or high-impact matchups.
 
-### 3. Use Data-Driven Umpire Training
+### 3. Use data-driven umpire training
 
 Umpires showing higher bias or lower accuracy may benefit from targeted retraining programs.
 
-### 4. Expand Use of Technology
+### 4. Expand use of technology
 
 Technologies such as automated strike zones could help reduce the influence of human bias in critical calls.
 
-### 5. Improve Future Data Collection
+### 5. Improve future data collection
 
 Future studies should include which team was batting, types of incorrect calls, or pitch location information.
 
