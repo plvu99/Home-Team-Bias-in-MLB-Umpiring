@@ -191,7 +191,7 @@ Umpires showing higher bias or lower accuracy may benefit from targeted retraini
 
 Technologies such as automated strike zones could help reduce the influence of human bias in critical calls.
 
-Improve Future Data Collection
+### 5. Improve Future Data Collection
 
 Future studies should include which team was batting, types of incorrect calls, or pitch location information.
 
