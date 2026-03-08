@@ -135,6 +135,8 @@ One reason is that most combinations of umpire, home team, and away team occur o
 
 Three clusters of umpire behavior emerged:
 
+<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/a5c2ba77-ff1d-44f6-9479-14c4033c660e" />
+
 **Neutral Umpires (58%)**
 - Favorability scores close to zero
 - Minimal bias toward either team
@@ -148,8 +150,6 @@ Three clusters of umpire behavior emerged:
 - Calls more frequently benefit the home team
 
 Most umpires appear neutral, but a meaningful minority show systematic bias.
-
-<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/a5c2ba77-ff1d-44f6-9479-14c4033c660e" />
 
 ### 4. Hierarchical Clustering
 
