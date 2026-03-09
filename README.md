@@ -189,7 +189,9 @@ This would allow deeper analysis of situational bias.
 
 ## ⚙ Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Machine Learning (Linear Regression, Logistic Regression, Decision Trees)
+- Python
+- Data preprocessing (Pandas, NumPy)
+- Data visualization (Matplotlib, Seaborn)
+- Machine learning (Linear Regression, Logistic Regression, Decision Trees)
 - Clustering (K-Means, Hierarchical Clustering)
-- Model Evaluation (Cross-validation, RMSE, R², Silhouette Score)
+- Model evaluation (Cross-validation, RMSE, R², Silhouette Score)
